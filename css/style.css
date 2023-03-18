@@ -1,0 +1,53 @@
+
+body{
+  background-image: url(../img/img8.png);
+}
+h1{
+  color:white;
+}
+h5{
+  color:white;
+}
+
+.py-5{
+  background-size: 100% 100%;
+  width: 100%
+}
+.one-py-5{
+  position: fixed;
+  text-align: left;
+}
+
+.card mt-4{
+  border: none;
+}
+
+.mt-2{
+  height: 40px;
+  width: 90%;
+  outline: none;
+  padding: 0 20px;
+}
+
+.span{
+  color:black;
+  font-weight: 600;
+}
+
+.btn1 {
+  background-color: #2E68BF;
+  color: white;
+  outline: none;
+  border: none;
+  width: 90%;
+  height: 40px;
+  margin-top: 32px;
+}
+
+
+.un-list1{
+  background-color: blue;
+}
+.mt-4{
+  background: #dce4ff;
+}
